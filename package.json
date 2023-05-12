@@ -1,0 +1,17 @@
+{
+    "name": "kreatives-bs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "live-server"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "aos": "^2.3.4",
+        "bootstrap": "^5.2.3",
+        "live-server": "^1.2.2"
+    }
+}
